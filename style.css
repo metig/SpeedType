@@ -1,0 +1,66 @@
+*{
+    font-family: 'Raleway', sans-serif;
+    
+}
+body{
+    margin: 0px;
+    display: block;
+}
+header{
+   text-align:center;
+   background: #7feeee;
+   padding: 2px;
+}
+
+.intro {
+    font-size: 25px;
+    margin-bottom: 20px;
+    text-align: center;
+
+}
+.disc {
+    width: 50%;
+    display: inline-flex;
+    font-size: 15px;
+    
+    
+    
+}
+#origin-text p{
+    display: inline-block;
+    padding: 25px;
+    margin-bottom: 30px;
+    font-size: 15px;
+    width: 50%;
+    font-weight: bold;
+    background: #ededee;
+}
+.test-area {
+    text-align: center;
+}
+#test-area{
+     
+    border-width: 3px;
+    border-style: solid;
+    font-weight: bold;
+    font-size: 20px;
+}
+#test-area:focus{
+  outline: none;
+}
+    
+
+
+.timer{
+    margin-top: 20px;
+    font-size: 25px;
+    font-family: Arial, Helvetica, sans-serif;
+}
+#reset{
+   font-size: 25px;
+   margin-top: 20px;
+   background-color: #7feeee;
+   border: 5px solid  #7feeee ;
+   padding: 9px;
+   
+}
