@@ -37,21 +37,24 @@ header{
 }
 .test-area {
     text-align: center;
+    
 }
 #test-area{
-     
+    font-family: 'Bree Serif', serif;
+    font-weight: bold;
     border-width: 3px;
     border-style: solid;
-    font-weight: bold;
-    font-size: 20px;
+    font-size: 25px;
 }
 #test-area:focus{
   outline: none;
 }
+  
+
+
+#clock{
     
-
-
-.timer{
+    float: center;
     margin-top: 20px;
     font-size: 25px;
     font-family: Arial, Helvetica, sans-serif;
